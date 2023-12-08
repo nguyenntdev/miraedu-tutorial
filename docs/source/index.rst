@@ -1,22 +1,15 @@
-Welcome to Lumache's documentation!
+Chào mừng bạn đã đến tài liệu bảo trì của hệ thống MiraEDU
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**MiraEDU** (Mira Education) là hệ thống học tập trực tuyến
+dành cho học sinh và sinh viên.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nó có một số học phần miễn phí cũng như mất phí, và hiện tại
+đang kêu gọi sự trợ giúp.
 
 .. note::
 
-   This project is under active development.
+   Dự án này vẫn đang trong giai đoạn phát triển.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Chào thân ái và quyết thắng,
+Nguyễn Ngọc Thiện
